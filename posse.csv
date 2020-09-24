@@ -1,0 +1,915 @@
+EQUIPE,JOGADOR,POSICAO,ID,Q,TEMPO,MOMENTO,DURACAO,FUNDAMENTO
+Atlético-GO,Jean,Goleiro,46563260,3,2,403,26,lancamento
+Atlético-MG,Everson,Goleiro,46578326,4,4,1843,19,lancamento
+Atlético-GO,Jean,Goleiro,46574017,3,4,78,17,lancamento
+Atlético-GO,Jean,Goleiro,46567281,2,2,1568,16,lancamento
+Atlético-GO,Gilvan,Zagueiro,46576263,7,4,938,14,passe
+Atlético-GO,Jean,Goleiro,46570240,3,2,2664,13,lancamento
+Atlético-MG,Everson,Goleiro,46574239,10,4,166,10,lancamento
+Atlético-GO,Everton Felipe,Meia,46579950,23,4,2649,9,passe
+Atlético-GO,Jean,Goleiro,46577200,9,4,1297,9,lancamento
+Atlético-GO,Gustavo Ferrareis,Meia,46564280,31,2,793,8,drible
+Atlético-MG,Alan Franco,Meia,46564076,33,2,738,8,finalizacao
+Atlético-GO,Everton Felipe,Meia,46578298,26,4,1832,8,viradaDeJogo
+Atlético-GO,Janderson,Atacante,46577237,30,4,1311,8,faltaRecebida
+Atlético-MG,Savarino,Meia,46571343,29,2,2973,7,drible
+Atlético-GO,Chico,Meia,46567344,24,2,1598,7,viradaDeJogo
+Atlético-GO,Dudu,Lateral direito,46564749,12,2,916,7,passe
+Atlético-GO,Jean,Goleiro,46578611,10,4,2044,7,lancamento
+Atlético-MG,Keno,Atacante,46575510,31,4,675,7,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46575470,20,4,666,7,passe
+Atlético-GO,Jean,Goleiro,46573867,9,4,34,7,lancamento
+Atlético-MG,Jair,Volante,46570393,23,2,2713,6,passe
+Atlético-GO,João Victor,Zagueiro,46569906,2,2,2573,6,lancamento
+Atlético-GO,Nicolas,Lateral esquerdo,46569484,26,2,2435,6,cruzamento
+Atlético-GO,Janderson,Atacante,46569365,23,2,2388,6,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46565899,31,2,1218,6,cruzamento
+Atlético-GO,Janderson,Atacante,46564344,30,2,811,6,cruzamento
+Atlético-GO,Jean,Goleiro,46562993,10,2,324,6,passe
+Atlético-GO,João Victor,Zagueiro,46578624,30,4,2053,6,passe
+Atlético-MG,Keno,Atacante,46578401,26,4,1914,6,finalizacao
+Atlético-GO,Gustavo Ferrareis,Meia,46576288,13,4,954,6,faltaRecebida
+Atlético-MG,Nathan,Meia,46575672,25,4,724,6,passe
+Atlético-GO,Renato Kayzer,Atacante,46571089,19,2,2908,5,viradaDeJogo
+Atlético-MG,Guga,Lateral direito,46570898,17,2,2848,5,lancamento
+Atlético-MG,Junior Alonso,Lateral esquerdo,46570868,15,2,2842,5,passe
+Atlético-MG,Alan Franco,Meia,46570639,28,2,2778,5,passe
+Atlético-MG,Savarino,Meia,46569605,30,2,2480,5,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46569394,14,2,2397,5,lancamento
+Atlético-GO,Nicolas,Lateral esquerdo,46569119,32,2,2294,5,finalizacao
+Atlético-GO,Jean,Goleiro,46569104,4,2,2284,5,lancamento
+Atlético-GO,Jean,Goleiro,46569082,3,2,2270,5,passe
+Atlético-MG,Keno,Atacante,46568622,31,2,2080,5,drible
+Atlético-MG,Savarino,Meia,46567968,29,2,1810,5,passe
+Atlético-MG,Keno,Atacante,46567543,26,2,1658,5,perdaPosseDeBola
+Atlético-MG,Junior Alonso,Lateral esquerdo,46564574,10,2,879,5,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46564302,31,2,803,5,viradaDeJogo
+Atlético-MG,Keno,Atacante,46564023,32,2,730,5,drible
+Atlético-MG,Allan,Volante,46563934,13,2,708,5,faltaRecebida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563673,14,2,596,5,passe
+Atlético-MG,Everson,Goleiro,46563622,5,2,574,5,lancamento
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563177,15,2,395,5,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46563133,25,2,382,5,passe
+Atlético-GO,Jean,Goleiro,46562679,4,2,210,5,lancamento
+Atlético-MG,Allan,Volante,46562598,7,2,177,5,passe
+Atlético-GO,Jean,Goleiro,46562188,4,2,21,5,lancamento
+Atlético-GO,Everton Felipe,Meia,46580347,35,4,2930,5,passe
+Atlético-MG,Nathan,Meia,46580262,17,4,2819,5,faltaRecebida
+Atlético-MG,Igor Rabello,Zagueiro,46580259,12,4,2813,5,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46580045,16,4,2702,5,passe
+Atlético-GO,Edson,Volante,46579691,15,4,2547,5,passe
+Atlético-GO,João Victor,Zagueiro,46579578,36,4,2489,5,passe
+Atlético-GO,Matheus Vargas,Meia,46579257,22,4,2331,5,lancamento
+Atlético-GO,Chico,Meia,46578376,30,4,1892,5,passe
+Atlético-GO,Matheus Vargas,Meia,46578226,23,4,1778,5,viradaDeJogo
+Atlético-GO,Jean,Goleiro,46578172,9,4,1751,5,passe
+Atlético-MG,Keno,Atacante,46576763,33,4,1154,5,gol
+Atlético-GO,Chico,Meia,46576489,16,4,1028,5,passe
+Atlético-MG,Savarino,Meia,46576022,36,4,870,5,cruzamento
+Atlético-MG,Igor Rabello,Zagueiro,46575210,12,4,571,5,lancamento
+Atlético-MG,Réver,Zagueiro,46574194,24,4,156,5,drible
+Atlético-MG,Keno,Atacante,46574161,31,4,140,5,cruzamento
+Atlético-GO,Éder Ferreira,Zagueiro,46573955,10,4,63,5,passe
+Atlético-GO,Dudu,Lateral direito,46571235,30,2,2945,4,passe
+Atlético-GO,Janderson,Atacante,46571221,36,2,2941,4,passe
+Atlético-GO,Janderson,Atacante,46570759,28,2,2812,4,passe
+Atlético-GO,Renato Kayzer,Atacante,46570749,25,2,2807,4,passe
+Atlético-GO,Jean,Goleiro,46570538,3,2,2758,4,lancamento
+Atlético-GO,Jean,Goleiro,46570022,13,2,2612,4,viradaDeJogo
+Atlético-GO,Gustavo Ferrareis,Meia,46569869,14,2,2564,4,passe
+Atlético-GO,Dudu,Lateral direito,46569346,18,2,2384,4,passe
+Atlético-GO,Janderson,Atacante,46569090,18,2,2275,4,passe
+Atlético-MG,Guga,Lateral direito,46568585,23,2,2066,4,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46568552,13,2,2056,4,passe
+Atlético-MG,Guga,Lateral direito,46567661,17,2,1698,4,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46567637,14,2,1690,4,passe
+Atlético-GO,Jean,Goleiro,46567563,4,2,1667,4,passe
+Atlético-GO,Chico,Meia,46566935,20,2,1487,4,viradaDeJogo
+Atlético-MG,Réver,Zagueiro,46566570,22,2,1396,4,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566181,20,2,1309,4,lancamento
+Atlético-GO,Jean,Goleiro,46565855,4,2,1211,4,lancamento
+Atlético-MG,Réver,Zagueiro,46565676,16,2,1133,4,passe
+Atlético-MG,Everson,Goleiro,46564352,4,2,816,4,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563915,8,2,703,4,passe
+Atlético-MG,Guga,Lateral direito,46563891,17,2,695,4,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46563754,27,2,636,4,finalizacao
+Atlético-MG,Savarino,Meia,46563563,36,2,547,4,passe
+Atlético-GO,Dudu,Lateral direito,46563030,30,2,337,4,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46563005,15,2,330,4,passe
+Atlético-GO,Renato Kayzer,Atacante,46562888,34,2,299,4,faltaCometida
+Atlético-GO,Janderson,Atacante,46562872,31,2,291,4,cruzamento
+Atlético-GO,João Victor,Zagueiro,46562741,17,2,231,4,passe
+Atlético-GO,Jean,Goleiro,46562471,2,2,117,4,lancamento
+Atlético-MG,Igor Rabello,Zagueiro,46580270,16,4,2838,4,passe
+Atlético-MG,Everson,Goleiro,46580170,5,4,2763,4,passe
+Atlético-GO,João Victor,Zagueiro,46580092,29,4,2726,4,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46580072,14,4,2717,4,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579799,14,4,2590,4,passe
+Atlético-GO,João Victor,Zagueiro,46579310,5,4,2362,4,passe
+Atlético-GO,João Victor,Zagueiro,46579184,18,4,2306,4,faltaRecebida
+Atlético-GO,Edson,Volante,46579023,14,4,2246,4,passe
+Atlético-GO,João Victor,Zagueiro,46578872,30,4,2172,4,passe
+Atlético-MG,Nathan,Meia,46578395,14,4,1907,4,passe
+Atlético-GO,João Victor,Zagueiro,46578372,17,4,1886,4,passe
+Atlético-MG,Alan Franco,Meia,46578266,30,4,1806,4,passe
+Atlético-MG,Mariano,Lateral direito,46578251,12,4,1797,4,passe
+Atlético-GO,Jean,Goleiro,46578156,9,4,1743,4,passe
+Atlético-GO,João Victor,Zagueiro,46577928,6,4,1594,4,faltaCometida
+Atlético-GO,Renato Kayzer,Atacante,46577553,28,4,1424,4,passe
+Atlético-GO,Renato Kayzer,Atacante,46576941,15,4,1222,4,passe
+Atlético-GO,Chico,Meia,46576580,23,4,1075,4,viradaDeJogo
+Atlético-GO,João Victor,Zagueiro,46576575,24,4,1071,4,passe
+Atlético-GO,Jean,Goleiro,46576475,4,4,1023,4,passe
+Atlético-MG,Jair,Volante,46575994,22,4,865,4,passe
+Atlético-MG,Alan Franco,Meia,46575576,30,4,696,4,passe
+Atlético-GO,Jean,Goleiro,46575115,2,4,536,4,passe
+Atlético-MG,Savarino,Meia,46573991,29,4,74,4,passe
+Atlético-GO,Renato Kayzer,Atacante,46573774,15,4,3,4,passe
+Atlético-MG,Allan,Volante,46570561,14,2,2764,3,faltaRecebida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46570374,14,2,2708,3,passe
+Atlético-MG,Guga,Lateral direito,46570324,6,2,2694,3,rebatida
+Atlético-MG,Allan,Volante,46570169,14,2,2655,3,passe
+Atlético-GO,Oliveira,Zagueiro,46570063,23,2,2627,3,passe
+Atlético-MG,Guga,Lateral direito,46569620,36,2,2491,3,passe
+Atlético-GO,Chico,Meia,46569471,31,2,2430,3,passe
+Atlético-MG,Allan,Volante,46568601,26,2,2075,3,passe
+Atlético-MG,Savarino,Meia,46568033,33,2,1828,3,finalizacao
+Atlético-MG,Keno,Atacante,46567997,32,2,1818,3,cruzamento
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567930,15,2,1798,3,passe
+Atlético-MG,Guga,Lateral direito,46567874,6,2,1774,3,faltaRecebida
+Atlético-MG,Réver,Zagueiro,46567618,10,2,1686,3,passe
+Atlético-MG,Savarino,Meia,46567529,23,2,1654,3,viradaDeJogo
+Atlético-GO,Nicolas,Lateral esquerdo,46567481,31,2,1640,3,perdaPosseDeBola
+Atlético-GO,Gustavo Ferrareis,Meia,46567302,20,2,1587,3,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46567112,3,2,1539,3,rebatida
+Atlético-MG,Réver,Zagueiro,46566166,15,2,1305,3,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566153,14,2,1301,3,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566138,14,2,1294,3,passe
+Atlético-MG,Allan,Volante,46564970,21,2,965,3,passe
+Atlético-MG,Savarino,Meia,46564941,29,2,959,3,passe
+Atlético-GO,Dudu,Lateral direito,46564319,30,2,808,3,passe
+Atlético-GO,Oliveira,Zagueiro,46564257,15,2,789,3,passe
+Atlético-GO,Jean,Goleiro,46564232,3,2,782,3,passe
+Atlético-MG,Allan,Volante,46563851,7,2,683,3,passe
+Atlético-MG,Réver,Zagueiro,46563540,10,2,541,3,lancamento
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563456,8,2,512,3,passe
+Atlético-MG,Alan Franco,Meia,46563269,17,2,428,3,faltaCometida
+Atlético-MG,Jair,Volante,46563124,29,2,378,3,viradaDeJogo
+Atlético-MG,Eduardo Sasha,Atacante,46563115,30,2,374,3,passe
+Atlético-GO,Janderson,Atacante,46562820,27,2,261,3,passe
+Atlético-GO,Jean,Goleiro,46562532,4,2,143,3,rebatida
+Atlético-MG,Everson,Goleiro,46562485,4,2,123,3,passe
+Atlético-MG,Alan Franco,Meia,46562411,36,2,98,3,faltaCometida
+Atlético-GO,Edson,Volante,46562431,1,2,90,3,drible
+Atlético-GO,Chico,Meia,46562295,23,2,54,3,passe
+Atlético-GO,Chico,Meia,46562242,18,2,37,3,passe
+Atlético-MG,Everson,Goleiro,46580251,4,4,2809,3,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46580237,8,4,2798,3,passe
+Atlético-GO,Gilvan,Zagueiro,46580214,8,4,2785,3,passe
+Atlético-MG,Mariano,Lateral direito,46580162,12,4,2760,3,passe
+Atlético-MG,Jair,Volante,46579976,14,4,2669,3,faltaRecebida
+Atlético-GO,João Victor,Zagueiro,46579954,30,4,2659,3,passe
+Atlético-MG,Sávio,Atacante,46579935,25,4,2643,3,drible
+Atlético-GO,Edson,Volante,46579927,28,4,2639,3,passe
+Atlético-GO,Matheus Vargas,Meia,46579567,23,4,2486,3,lancamento
+Atlético-GO,Edson,Volante,46579561,15,4,2481,3,passe
+Atlético-GO,Jean,Goleiro,46579493,9,4,2451,3,passe
+Atlético-MG,Igor Rabello,Zagueiro,46579283,9,4,2348,3,defesa
+Atlético-GO,Matheus Vargas,Meia,46579277,27,4,2344,3,passe
+Atlético-GO,Chico,Meia,46579237,23,4,2322,3,passe
+Atlético-GO,Jean,Goleiro,46579173,3,4,2300,3,passe
+Atlético-GO,Gilvan,Zagueiro,46579014,14,4,2242,3,passe
+Atlético-GO,Everton Felipe,Meia,46578828,20,4,2157,3,passe
+Atlético-GO,Edson,Volante,46578821,16,4,2152,3,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46578804,11,4,2144,3,passe
+Atlético-GO,Matheuzinho,Meia,46578561,36,4,2023,3,passe
+Atlético-GO,Jean,Goleiro,46578370,3,4,1883,3,passe
+Atlético-MG,Savarino,Meia,46578333,23,4,1863,3,passe
+Atlético-GO,João Victor,Zagueiro,46578280,12,4,1825,3,passe
+Atlético-GO,Jean,Goleiro,46578186,10,4,1761,3,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46578165,11,4,1749,3,passe
+Atlético-GO,Jean,Goleiro,46578011,3,4,1651,3,lancamento
+Atlético-MG,Nathan,Meia,46577736,23,4,1506,3,faltaRecebida
+Atlético-GO,Éder Ferreira,Zagueiro,46577421,33,4,1381,3,faltaCometida
+Atlético-GO,Gilvan,Zagueiro,46577134,8,4,1280,3,passe
+Atlético-GO,Janderson,Atacante,46576715,30,4,1132,3,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46576603,31,4,1097,3,passe
+Atlético-GO,Edson,Volante,46576568,11,4,1067,3,passe
+Atlético-MG,Everson,Goleiro,46576509,3,4,1037,3,defesa
+Atlético-MG,Keno,Atacante,46576454,32,4,1016,3,passe
+Atlético-MG,Jair,Volante,46576436,21,4,1010,3,passe
+Atlético-GO,Jean,Goleiro,46576218,3,4,934,3,passe
+Atlético-GO,Renato Kayzer,Atacante,46575749,17,4,758,3,faltaRecebida
+Atlético-MG,Réver,Zagueiro,46575724,20,4,746,3,faltaCometida
+Atlético-MG,Jair,Volante,46575590,24,4,701,3,passe
+Atlético-MG,Savarino,Meia,46575560,30,4,692,3,passe
+Atlético-GO,Janderson,Atacante,46575167,28,4,556,3,passe
+Atlético-GO,Edson,Volante,46575130,9,4,542,3,passe
+Atlético-MG,Savarino,Meia,46574560,11,4,321,3,perdaPosseDeBola
+Atlético-MG,Savarino,Meia,46574272,29,4,186,3,passe
+Atlético-MG,Réver,Zagueiro,46574057,16,4,110,3,passe
+Atlético-MG,Réver,Zagueiro,46573971,15,4,69,3,lancamento
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46573921,19,4,56,3,passe
+Atlético-MG,Réver,Zagueiro,46573808,15,4,14,3,rebatida
+Atlético-MG,Eduardo Sasha,Atacante,46571597,22,2,3060,2,perdaPosseDeBola
+Atlético-GO,Renato Kayzer,Atacante,46571529,21,2,3034,2,faltaCometida
+Atlético-MG,Jair,Volante,46571523,16,2,3032,2,faltaRecebida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46571513,10,2,3029,2,passe
+Atlético-MG,Réver,Zagueiro,46571491,11,2,3024,2,rebatida
+Atlético-MG,Eduardo Sasha,Atacante,46571320,22,2,2971,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46571271,27,2,2958,2,faltaCometida
+Atlético-GO,Dudu,Lateral direito,46571188,30,2,2938,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46571070,9,2,2903,2,rebatida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46571039,22,2,2893,2,passe
+Atlético-GO,João Victor,Zagueiro,46570988,3,2,2872,2,rebatida
+Atlético-GO,Gustavo Ferrareis,Meia,46570734,14,2,2805,2,passe
+Atlético-GO,Dudu,Lateral direito,46570594,23,2,2771,2,faltaCometida
+Atlético-GO,Dudu,Lateral direito,46570556,18,2,2765,2,perdaPosseDeBola
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46570360,13,2,2705,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46570262,13,2,2680,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46570249,19,2,2679,2,passe
+Atlético-MG,Keno,Atacante,46569880,29,2,2567,2,perdaPosseDeBola
+Atlético-GO,João Victor,Zagueiro,46569814,10,2,2553,2,passe
+Atlético-GO,Jean,Goleiro,46569796,4,2,2549,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46569680,3,2,2515,2,rebatida
+Atlético-MG,Alan Franco,Meia,46569626,30,2,2495,2,passe
+Atlético-MG,Guga,Lateral direito,46569613,30,2,2486,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46569585,20,2,2477,2,viradaDeJogo
+Atlético-MG,Alan Franco,Meia,46569502,3,2,2445,2,rebatida
+Atlético-GO,Oliveira,Zagueiro,46569378,21,2,2395,2,passe
+Atlético-MG,Guga,Lateral direito,46569312,30,2,2375,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46569236,7,2,2354,2,drible
+Atlético-GO,Gustavo Ferrareis,Meia,46569197,27,2,2345,2,passe
+Atlético-GO,Janderson,Atacante,46569189,27,2,2342,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46569181,4,2,2341,2,rebatida
+Atlético-MG,Alan Franco,Meia,46569110,12,2,2291,2,perdaPosseDeBola
+Atlético-GO,Dudu,Lateral direito,46569096,12,2,2280,2,passe
+Atlético-MG,Jair,Volante,46568568,22,2,2064,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46568524,8,2,2045,2,passe
+Atlético-MG,Guga,Lateral direito,46567952,17,2,1807,2,passe
+Atlético-MG,Réver,Zagueiro,46567914,16,2,1793,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567908,9,2,1791,2,passe
+Atlético-MG,Guga,Lateral direito,46567884,6,2,1779,2,passe
+Atlético-GO,Edson,Volante,46567701,7,2,1711,2,faltaCometida
+Atlético-MG,Alan Franco,Meia,46567694,30,2,1707,2,faltaRecebida
+Atlético-MG,Savarino,Meia,46567675,24,2,1703,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567653,15,2,1695,2,passe
+Atlético-MG,Everson,Goleiro,46567609,3,2,1684,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46567460,31,2,1637,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46567407,25,2,1624,2,passe
+Atlético-GO,Chico,Meia,46567328,23,2,1595,2,passe
+Atlético-GO,Chico,Meia,46567313,22,2,1591,2,passe
+Atlético-MG,Jair,Volante,46567169,20,2,1554,2,passe
+Atlético-MG,Keno,Atacante,46567116,26,2,1541,2,perdaPosseDeBola
+Atlético-GO,Janderson,Atacante,46566951,29,2,1494,2,finalizacao
+Atlético-GO,João Victor,Zagueiro,46566896,10,2,1481,2,defesa
+Atlético-GO,Éder Ferreira,Zagueiro,46566614,3,2,1406,2,rebatida
+Atlético-MG,Jair,Volante,46566541,21,2,1393,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46566514,25,2,1388,2,passe
+Atlético-MG,Savarino,Meia,46566369,24,2,1357,2,perdaPosseDeBola
+Atlético-MG,Réver,Zagueiro,46566126,16,2,1292,2,passe
+Atlético-GO,Oliveira,Zagueiro,46565943,27,2,1235,2,gol
+Atlético-GO,Renato Kayzer,Atacante,46565919,34,2,1228,2,passe
+Atlético-GO,Oliveira,Zagueiro,46565806,4,2,1188,2,faltaRecebida
+Atlético-MG,Réver,Zagueiro,46565804,33,2,1187,2,faltaCometida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46565654,14,2,1131,2,passe
+Atlético-MG,Réver,Zagueiro,46565148,18,2,1002,2,faltaRecebida
+Atlético-GO,Gustavo Ferrareis,Meia,46565123,7,2,998,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46565108,3,2,994,2,rebatida
+Atlético-MG,Keno,Atacante,46565100,31,2,992,2,drible
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46565080,25,2,988,2,passe
+Atlético-MG,Réver,Zagueiro,46564913,16,2,952,2,passe
+Atlético-MG,Réver,Zagueiro,46564880,15,2,947,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46564595,13,2,887,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46564553,14,2,872,2,passe
+Atlético-MG,Jair,Volante,46564497,16,2,855,2,faltaRecebida
+Atlético-GO,Éder Ferreira,Zagueiro,46564197,3,2,773,2,rebatida
+Atlético-MG,Réver,Zagueiro,46563880,10,2,692,2,passe
+Atlético-GO,Janderson,Atacante,46563804,31,2,666,2,passe
+Atlético-GO,Chico,Meia,46563715,9,2,617,2,faltaRecebida
+Atlético-GO,Éder Ferreira,Zagueiro,46563702,9,2,614,2,passe
+Atlético-MG,Réver,Zagueiro,46563662,17,2,594,2,passe
+Atlético-MG,Guga,Lateral direito,46563604,6,2,571,2,passe
+Atlético-MG,Alan Franco,Meia,46563583,35,2,556,2,perdaPosseDeBola
+Atlético-GO,Chico,Meia,46563490,28,2,525,2,passe
+Atlético-GO,Oliveira,Zagueiro,46563482,23,2,522,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46563476,23,2,520,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563438,7,2,505,2,passe
+Atlético-MG,Keno,Atacante,46563377,28,2,474,2,impedimento
+Atlético-GO,Jean,Goleiro,46563347,3,2,457,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46563289,20,2,437,2,passe
+Atlético-GO,Janderson,Atacante,46563273,20,2,430,2,faltaRecebida
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46563067,2,2,353,2,defesa
+Atlético-MG,Alan Franco,Meia,46563042,4,2,344,2,rebatida
+Atlético-GO,Gustavo Ferrareis,Meia,46563036,30,2,341,2,passe
+Atlético-GO,Oliveira,Zagueiro,46563012,23,2,334,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46562950,29,2,318,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562911,1,2,308,2,passe
+Atlético-GO,Chico,Meia,46562864,31,2,287,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46562804,26,2,257,2,perdaPosseDeBola
+Atlético-MG,Keno,Atacante,46562611,25,2,188,2,impedimento
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46562605,14,2,184,2,passe
+Atlético-MG,Guga,Lateral direito,46562563,24,2,164,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562496,9,2,128,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46562395,1,2,88,2,interceptacao
+Atlético-GO,Edson,Volante,46562380,9,2,79,2,rebatida
+Atlético-MG,Everson,Goleiro,46562376,9,2,77,2,rebatida
+Atlético-GO,Edson,Volante,46562344,9,2,67,2,passe
+Atlético-GO,Jean,Goleiro,46562338,9,2,65,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562276,14,2,47,2,faltaCometida
+Atlético-GO,Chico,Meia,46562227,18,2,34,2,interceptacao
+Atlético-GO,Dudu,Lateral direito,46562168,12,2,18,2,passe
+Atlético-MG,Réver,Zagueiro,46580382,9,4,3014,2,passe
+Atlético-GO,João Victor,Zagueiro,46580336,36,4,2926,2,passe
+Atlético-GO,Edson,Volante,46580334,29,4,2924,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46580320,8,4,2910,2,passe
+Atlético-MG,Mariano,Lateral direito,46580306,24,4,2897,2,passe
+Atlético-MG,Réver,Zagueiro,46580294,8,4,2856,2,faltaRecebida
+Atlético-MG,Réver,Zagueiro,46580284,8,4,2850,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46580241,11,4,2803,2,passe
+Atlético-MG,Réver,Zagueiro,46580227,10,4,2792,2,passe
+Atlético-GO,Jean,Goleiro,46580203,4,4,2783,2,passe
+Atlético-GO,Jean,Goleiro,46580194,11,4,2780,2,perdaPosseDeBola
+Atlético-MG,Junior Alonso,Lateral esquerdo,46580180,1,4,2770,2,passe
+Atlético-GO,Chico,Meia,46580085,22,4,2723,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46580062,14,4,2713,2,passe
+Atlético-GO,Gilvan,Zagueiro,46580056,8,4,2709,2,passe
+Atlético-GO,Edson,Volante,46580029,15,4,2698,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46579970,8,4,2666,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46579966,29,4,2665,2,passe
+Atlético-GO,Everton Felipe,Meia,46579960,30,4,2662,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46579921,10,4,2637,2,rebatida
+Atlético-MG,Réver,Zagueiro,46579905,3,4,2633,2,rebatida
+Atlético-GO,João Victor,Zagueiro,46579907,35,4,2633,2,passe
+Atlético-GO,João Victor,Zagueiro,46579852,24,4,2609,2,drible
+Atlético-GO,Edson,Volante,46579842,23,4,2607,2,passe
+Atlético-GO,Everton Felipe,Meia,46579836,28,4,2604,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579825,20,4,2601,2,passe
+Atlético-GO,Matheus Vargas,Meia,46579817,20,4,2599,2,passe
+Atlético-GO,Matheus Vargas,Meia,46579804,19,4,2594,2,passe
+Atlético-MG,Maílton,Lateral direito,46579681,24,4,2545,2,perdaPosseDeBola
+Atlético-MG,Nathan,Meia,46579677,18,4,2542,2,passe
+Atlético-MG,Mariano,Lateral direito,46579667,6,4,2539,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579553,13,4,2478,2,passe
+Atlético-GO,Edson,Volante,46579543,16,4,2476,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46579503,17,4,2455,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579485,13,4,2445,2,passe
+Atlético-GO,Gilvan,Zagueiro,46579477,14,4,2441,2,passe
+Atlético-GO,Edson,Volante,46579471,16,4,2439,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46579352,27,4,2377,2,faltaCometida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46579265,3,4,2339,2,rebatida
+Atlético-MG,Sávio,Atacante,46579235,19,4,2323,2,faltaCometida
+Atlético-GO,João Victor,Zagueiro,46579219,24,4,2320,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46579178,11,4,2304,2,passe
+Atlético-GO,Edson,Volante,46579162,1,4,2298,2,passe
+Atlético-MG,Maílton,Lateral direito,46579157,30,4,2296,2,perdaPosseDeBola
+Atlético-GO,João Victor,Zagueiro,46579079,30,4,2264,2,passe
+Atlético-GO,Everton Felipe,Meia,46579071,28,4,2261,2,passe
+Atlético-GO,Everton Felipe,Meia,46579060,27,4,2258,2,drible
+Atlético-MG,Maílton,Lateral direito,46579053,24,4,2256,2,perdaPosseDeBola
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46579036,17,4,2250,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46579034,21,4,2250,2,perdaPosseDeBola
+Atlético-GO,Edson,Volante,46578847,14,4,2164,2,passe
+Atlético-GO,Edson,Volante,46578832,14,4,2160,2,passe
+Atlético-GO,Matheus Vargas,Meia,46578825,16,4,2155,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46578812,10,4,2149,2,passe
+Atlético-GO,João Victor,Zagueiro,46578794,18,4,2141,2,passe
+Atlético-GO,Jean,Goleiro,46578789,3,4,2137,2,lancamento
+Atlético-MG,Nathan,Meia,46578695,21,4,2086,2,finalizacao
+Atlético-GO,Gilvan,Zagueiro,46578668,15,4,2074,2,passe
+Atlético-GO,Edson,Volante,46578659,20,4,2071,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46578635,25,4,2063,2,passe
+Atlético-GO,Matheus Vargas,Meia,46578630,29,4,2059,2,viradaDeJogo
+Atlético-GO,Everton Felipe,Meia,46578575,28,4,2034,2,perdaPosseDeBola
+Atlético-GO,João Victor,Zagueiro,46578565,30,4,2027,2,passe
+Atlético-GO,Everton Felipe,Meia,46578551,23,4,2020,2,passe
+Atlético-GO,Edson,Volante,46578534,14,4,2015,2,passe
+Atlético-GO,Chico,Meia,46578528,14,4,2013,2,passe
+Atlético-GO,Everton Felipe,Meia,46578510,21,4,2008,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46578504,15,4,2004,2,passe
+Atlético-MG,Mariano,Lateral direito,46578434,30,4,1929,2,cruzamento
+Atlético-GO,Matheus Vargas,Meia,46578383,29,4,1899,2,passe
+Atlético-GO,Matheus Vargas,Meia,46578284,16,4,1829,2,passe
+Atlético-GO,Jean,Goleiro,46578276,3,4,1823,2,passe
+Atlético-MG,Nathan,Meia,46578271,29,4,1812,2,passe
+Atlético-MG,Jair,Volante,46578209,19,4,1774,2,faltaCometida
+Atlético-GO,Éder Ferreira,Zagueiro,46578190,12,4,1765,2,passe
+Atlético-MG,Mariano,Lateral direito,46578115,18,4,1725,2,passe
+Atlético-MG,Jair,Volante,46578046,20,4,1665,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46577918,31,4,1589,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46577877,25,4,1574,2,passe
+Atlético-MG,Keno,Atacante,46577856,25,4,1557,2,perdaPosseDeBola
+Atlético-MG,Igor Rabello,Zagueiro,46577790,23,4,1526,2,passe
+Atlético-GO,Gilvan,Zagueiro,46577737,14,4,1507,2,faltaCometida
+Atlético-GO,Oliveira,Zagueiro,46577536,22,4,1422,2,passe
+Atlético-GO,João Victor,Zagueiro,46577216,30,4,1307,2,passe
+Atlético-GO,Edson,Volante,46577166,17,4,1291,2,passe
+Atlético-GO,Jean,Goleiro,46577156,8,4,1287,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46577141,11,4,1285,2,passe
+Atlético-GO,Edson,Volante,46577112,14,4,1278,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46576993,18,4,1242,2,rebatida
+Atlético-GO,Éder Ferreira,Zagueiro,46576968,11,4,1234,2,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46576957,13,4,1229,2,passe
+Atlético-GO,Edson,Volante,46576949,14,4,1226,2,passe
+Atlético-GO,João Victor,Zagueiro,46576719,24,4,1136,2,passe
+Atlético-GO,João Victor,Zagueiro,46576698,24,4,1127,2,passe
+Atlético-GO,João Victor,Zagueiro,46576680,24,4,1121,2,passe
+Atlético-GO,Oliveira,Zagueiro,46576669,14,4,1118,2,viradaDeJogo
+Atlético-GO,Gilvan,Zagueiro,46576650,14,4,1115,2,passe
+Atlético-GO,Edson,Volante,46576644,13,4,1113,2,passe
+Atlético-MG,Eduardo Sasha,Atacante,46576625,11,4,1104,2,drible
+Atlético-GO,Gilvan,Zagueiro,46576563,6,4,1064,2,passe
+Atlético-GO,Gilvan,Zagueiro,46576554,6,4,1060,2,rebatida
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46576522,14,4,1043,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46576505,35,4,1037,2,finalizacao
+Atlético-GO,Janderson,Atacante,46576496,30,4,1033,2,passe
+Atlético-GO,Edson,Volante,46576439,20,4,1012,2,passe
+Atlético-GO,Chico,Meia,46576430,20,4,1010,2,passe
+Atlético-GO,Jean,Goleiro,46576343,9,4,981,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46576244,24,4,945,2,faltaCometida
+Atlético-GO,Edson,Volante,46576194,15,4,930,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46576181,21,4,925,2,passe
+Atlético-GO,Edson,Volante,46575738,10,4,752,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46575667,15,4,721,2,passe
+Atlético-MG,Jair,Volante,46575661,17,4,718,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46575650,11,4,716,2,passe
+Atlético-GO,João Victor,Zagueiro,46575613,10,4,708,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46575547,23,4,690,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46575523,25,4,684,2,passe
+Atlético-MG,Réver,Zagueiro,46575450,16,4,663,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46575302,33,4,599,2,gol
+Atlético-GO,Chico,Meia,46575274,31,4,593,2,passe
+Atlético-GO,Edson,Volante,46575232,19,4,581,2,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46575175,27,4,560,2,passe
+Atlético-GO,Jean,Goleiro,46575068,3,4,525,2,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46575059,8,4,524,2,passe
+Atlético-GO,Oliveira,Zagueiro,46575053,9,4,522,2,passe
+Atlético-GO,Chico,Meia,46575040,15,4,518,2,passe
+Atlético-GO,Renato Kayzer,Atacante,46575030,21,4,516,2,passe
+Atlético-MG,Nathan,Meia,46574659,33,4,363,2,penaltiRecebido
+Atlético-GO,Éder Ferreira,Zagueiro,46574653,4,4,362,2,penaltiCometido
+Atlético-MG,Junior Alonso,Lateral esquerdo,46574632,21,4,354,2,passe
+Atlético-MG,Igor Rabello,Zagueiro,46574595,18,4,340,2,passe
+Atlético-GO,João Victor,Zagueiro,46574581,15,4,333,2,passe
+Atlético-GO,Chico,Meia,46574575,20,4,328,2,passe
+Atlético-MG,Alan Franco,Meia,46574572,12,4,327,2,perdaPosseDeBola
+Atlético-MG,Réver,Zagueiro,46574544,5,4,317,2,rebatida
+Atlético-MG,Réver,Zagueiro,46574506,12,4,300,2,rebatida
+Atlético-GO,Nicolas,Lateral esquerdo,46574463,13,4,278,2,passe
+Atlético-MG,Jair,Volante,46574416,21,4,247,2,passe
+Atlético-MG,Réver,Zagueiro,46574408,16,4,243,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46574393,8,4,237,2,passe
+Atlético-MG,Everson,Goleiro,46574386,4,4,234,2,passe
+Atlético-MG,Eduardo Sasha,Atacante,46574262,21,4,183,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46574247,13,4,178,2,passe
+Atlético-MG,Réver,Zagueiro,46574079,17,4,116,2,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46574001,28,4,80,2,finalizacao
+Atlético-GO,Janderson,Atacante,46573963,17,4,69,2,perdaPosseDeBola
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46573885,14,4,48,2,passe
+Atlético-GO,João Victor,Zagueiro,46573852,17,4,32,2,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46576319,16,4,23,2,faltaCometida
+Atlético-GO,Dudu,Lateral direito,46573798,12,4,12,2,passe
+Atlético-GO,João Victor,Zagueiro,46573791,11,4,10,2,passe
+Atlético-GO,Chico,Meia,46573781,15,4,7,2,passe
+Atlético-MG,Guga,Lateral direito,46571591,17,2,3058,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46571588,16,2,3057,1,passe
+Atlético-MG,Allan,Volante,46571499,9,2,3027,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46571361,27,2,2983,1,passe
+Atlético-MG,Savarino,Meia,46571354,29,2,2981,1,passe
+Atlético-MG,Allan,Volante,46571308,14,2,2969,1,passe
+Atlético-MG,Réver,Zagueiro,46571302,10,2,2967,1,passe
+Atlético-MG,Guga,Lateral direito,46571296,10,2,2966,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46571263,10,2,2955,1,faltaRecebida
+Atlético-GO,Oliveira,Zagueiro,46571244,29,2,2949,1,passe
+Atlético-MG,Allan,Volante,46571045,20,2,2896,1,passe
+Atlético-MG,Réver,Zagueiro,46571031,21,2,2890,1,passe
+Atlético-MG,Allan,Volante,46571029,20,2,2888,1,passe
+Atlético-MG,Réver,Zagueiro,46571023,21,2,2887,1,passe
+Atlético-MG,Jair,Volante,46571019,27,2,2886,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46571015,25,2,2883,1,passe
+Atlético-MG,Allan,Volante,46571011,26,2,2882,1,passe
+Atlético-MG,Jair,Volante,46571007,29,2,2881,1,passe
+Atlético-MG,Savarino,Meia,46571002,30,2,2879,1,passe
+Atlético-MG,Savarino,Meia,46570986,30,2,2873,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46570979,21,2,2870,1,passe
+Atlético-MG,Keno,Atacante,46570965,20,2,2867,1,passe
+Atlético-GO,Janderson,Atacante,46570942,17,2,2861,1,perdaPosseDeBola
+Atlético-MG,Guga,Lateral direito,46570848,11,2,2840,1,passe
+Atlético-MG,Réver,Zagueiro,46570838,4,2,2839,1,passe
+Atlético-MG,Everson,Goleiro,46570824,4,2,2836,1,passe
+Atlético-GO,Chico,Meia,46570723,15,2,2803,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46570716,9,2,2801,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46570698,20,2,2797,1,passe
+Atlético-MG,Allan,Volante,46570689,20,2,2795,1,passe
+Atlético-MG,Keno,Atacante,46570685,25,2,2794,1,passe
+Atlético-MG,Keno,Atacante,46570676,25,2,2791,1,perdaPosseDeBola
+Atlético-MG,Allan,Volante,46570650,26,2,2784,1,passe
+Atlético-MG,Jair,Volante,46570610,22,2,2776,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46570462,26,2,2740,1,passe
+Atlético-GO,Chico,Meia,46570442,10,2,2733,1,perdaPosseDeBola
+Atlético-MG,Jair,Volante,46570422,27,2,2725,1,passe
+Atlético-MG,Allan,Volante,46570414,21,2,2723,1,passe
+Atlético-MG,Réver,Zagueiro,46570405,22,2,2720,1,passe
+Atlético-MG,Everson,Goleiro,46570352,3,2,2703,1,passe
+Atlético-GO,Chico,Meia,46570282,19,2,2687,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46570273,19,2,2684,1,passe
+Atlético-MG,Réver,Zagueiro,46570174,15,2,2659,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46570162,13,2,2653,1,passe
+Atlético-GO,Jean,Goleiro,46570136,3,2,2644,1,passe
+Atlético-GO,Dudu,Lateral direito,46570047,24,2,2624,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46570030,7,2,2619,1,rebatida
+Atlético-GO,Gustavo Ferrareis,Meia,46569915,13,2,2580,1,faltaRecebida
+Atlético-MG,Guga,Lateral direito,46569900,24,2,2574,1,faltaCometida
+Atlético-MG,Réver,Zagueiro,46569848,18,2,2560,1,rebatida
+Atlético-MG,Eduardo Sasha,Atacante,46569695,33,2,2518,1,perdaPosseDeBola
+Atlético-MG,Jair,Volante,46569683,27,2,2516,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46569653,31,2,2505,1,passe
+Atlético-MG,Keno,Atacante,46569648,25,2,2503,1,passe
+Atlético-MG,Allan,Volante,46569644,27,2,2501,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46569634,21,2,2498,1,passe
+Atlético-MG,Alan Franco,Meia,46569615,36,2,2489,1,passe
+Atlético-MG,Allan,Volante,46569575,13,2,2473,1,passe
+Atlético-MG,Alan Franco,Meia,46569567,22,2,2470,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46569557,15,2,2467,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46569545,7,2,2464,1,passe
+Atlético-MG,Everson,Goleiro,46569534,3,2,2460,1,passe
+Atlético-GO,Chico,Meia,46569520,20,2,2451,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46569515,14,2,2449,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46569400,31,2,2402,1,perdaPosseDeBola
+Atlético-MG,Junior Alonso,Lateral esquerdo,46569318,21,2,2378,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46569243,7,2,2356,1,passe
+Atlético-GO,Jean,Goleiro,46569222,9,2,2351,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46569208,20,2,2349,1,passe
+Atlético-MG,Everson,Goleiro,46569134,4,2,2299,1,defesaDificil
+Atlético-GO,João Victor,Zagueiro,46569100,11,2,2283,1,passe
+Atlético-GO,Edson,Volante,46569070,3,2,2268,1,rebatida
+Atlético-GO,João Victor,Zagueiro,46568979,3,2,2236,1,rebatida
+Atlético-GO,Gustavo Ferrareis,Meia,46568724,2,2,2117,1,rebatida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46568710,34,2,2112,1,perdaPosseDeBola
+Atlético-GO,Jean,Goleiro,46568700,4,2,2109,1,rebatida
+Atlético-MG,Keno,Atacante,46568629,32,2,2086,1,perdaPosseDeBola
+Atlético-MG,Réver,Zagueiro,46568593,22,2,2073,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46568563,20,2,2062,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46568542,14,2,2054,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46568514,10,2,2043,1,passe
+Atlético-MG,Allan,Volante,46568508,16,2,2042,1,passe
+Atlético-MG,Réver,Zagueiro,46568505,17,2,2040,1,passe
+Atlético-MG,Savarino,Meia,46568429,33,2,2011,1,impedimento
+Atlético-MG,Savarino,Meia,46568111,33,2,1866,1,gol
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46567978,26,2,1815,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567945,14,2,1804,1,passe
+Atlético-MG,Allan,Volante,46567940,13,2,1802,1,passe
+Atlético-MG,Réver,Zagueiro,46567922,16,2,1796,1,passe
+Atlético-MG,Guga,Lateral direito,46567920,17,2,1795,1,passe
+Atlético-MG,Allan,Volante,46567898,8,2,1787,1,passe
+Atlético-MG,Everson,Goleiro,46567892,4,2,1782,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46567882,31,2,1778,1,faltaCometida
+Atlético-MG,Allan,Volante,46567602,7,2,1682,1,passe
+Atlético-GO,Edson,Volante,46567553,10,2,1665,1,rebatida
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46567521,16,2,1652,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46567517,10,2,1651,1,passe
+Atlético-MG,Guga,Lateral direito,46567511,6,2,1649,1,passe
+Atlético-MG,Alan Franco,Meia,46567496,6,2,1646,1,passe
+Atlético-GO,Oliveira,Zagueiro,46567447,31,2,1635,1,passe
+Atlético-MG,Jair,Volante,46567421,6,2,1628,1,perdaPosseDeBola
+Atlético-MG,Alan Franco,Meia,46567349,12,2,1606,1,rebatida
+Atlético-GO,Gustavo Ferrareis,Meia,46567347,26,2,1606,1,perdaPosseDeBola
+Atlético-GO,João Victor,Zagueiro,46567335,17,2,1597,1,passe
+Atlético-GO,Janderson,Atacante,46567317,24,2,1593,1,passe
+Atlético-MG,Réver,Zagueiro,46567200,16,2,1561,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567188,15,2,1560,1,passe
+Atlético-MG,Allan,Volante,46567186,19,2,1558,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46567175,20,2,1557,1,passe
+Atlético-MG,Réver,Zagueiro,46567157,16,2,1552,1,passe
+Atlético-MG,Everson,Goleiro,46567153,9,2,1551,1,passe
+Atlético-GO,Oliveira,Zagueiro,46567120,10,2,1543,1,rebatida
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46567054,20,2,1526,1,passe
+Atlético-MG,Allan,Volante,46567048,14,2,1524,1,passe
+Atlético-MG,Réver,Zagueiro,46567038,10,2,1522,1,passe
+Atlético-MG,Jair,Volante,46567029,17,2,1520,1,passe
+Atlético-MG,Guga,Lateral direito,46567024,11,2,1518,1,passe
+Atlético-MG,Alan Franco,Meia,46567022,18,2,1517,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46567005,8,2,1513,1,passe
+Atlético-MG,Réver,Zagueiro,46566995,4,2,1511,1,passe
+Atlético-MG,Everson,Goleiro,46566984,3,2,1507,1,defesa
+Atlético-GO,Gustavo Ferrareis,Meia,46566914,9,2,1485,1,passe
+Atlético-MG,Guga,Lateral direito,46566910,28,2,1484,1,perdaPosseDeBola
+Atlético-MG,Allan,Volante,46566864,20,2,1475,1,passe
+Atlético-MG,Réver,Zagueiro,46566858,22,2,1473,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566638,21,2,1412,1,passe
+Atlético-MG,Allan,Volante,46566627,26,2,1410,1,passe
+Atlético-MG,Jair,Volante,46566618,27,2,1408,1,passe
+Atlético-MG,Jair,Volante,46566586,28,2,1403,1,passe
+Atlético-MG,Keno,Atacante,46566582,28,2,1402,1,passe
+Atlético-MG,Allan,Volante,46566527,20,2,1391,1,passe
+Atlético-MG,Allan,Volante,46566502,21,2,1387,1,passe
+Atlético-MG,Jair,Volante,46566497,22,2,1384,1,passe
+Atlético-GO,Edson,Volante,46566472,14,2,1382,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46566470,21,2,1381,1,passe
+Atlético-MG,Savarino,Meia,46566462,23,2,1380,1,passe
+Atlético-MG,Allan,Volante,46566454,17,2,1378,1,passe
+Atlético-GO,Oliveira,Zagueiro,46566446,14,2,1376,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46566378,13,2,1359,1,rebatida
+Atlético-MG,Réver,Zagueiro,46566358,10,2,1355,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46566144,20,2,1298,1,passe
+Atlético-MG,Guga,Lateral direito,46566120,17,2,1290,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566111,15,2,1289,1,passe
+Atlético-MG,Réver,Zagueiro,46566097,16,2,1285,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46566029,4,2,1265,1,rebatida
+Atlético-MG,Jair,Volante,46565923,4,2,1230,1,defesa
+Atlético-GO,Renato Kayzer,Atacante,46565867,20,2,1216,1,passe
+Atlético-GO,Dudu,Lateral direito,46565712,4,2,1147,1,rebatida
+Atlético-MG,Alan Franco,Meia,46565689,24,2,1139,1,passe
+Atlético-MG,Réver,Zagueiro,46565643,16,2,1129,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46565637,14,2,1128,1,passe
+Atlético-MG,Réver,Zagueiro,46565633,16,2,1126,1,passe
+Atlético-MG,Guga,Lateral direito,46565620,17,2,1124,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46565615,16,2,1122,1,passe
+Atlético-MG,Jair,Volante,46565195,16,2,1017,1,passe
+Atlético-MG,Réver,Zagueiro,46565175,17,2,1011,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46565156,19,2,1005,1,faltaCometida
+Atlético-GO,Nicolas,Lateral esquerdo,46565128,1,2,1000,1,rebatida
+Atlético-MG,Allan,Volante,46565065,20,2,985,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46565061,19,2,984,1,passe
+Atlético-GO,Dudu,Lateral direito,46565000,5,2,971,1,rebatida
+Atlético-MG,Keno,Atacante,46564989,31,2,969,1,perdaPosseDeBola
+Atlético-MG,Jair,Volante,46564957,23,2,963,1,passe
+Atlético-MG,Alan Franco,Meia,46564924,24,2,957,1,passe
+Atlético-MG,Guga,Lateral direito,46564891,17,2,950,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46564871,13,2,946,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46564857,19,2,944,1,passe
+Atlético-GO,João Victor,Zagueiro,46564757,5,2,923,1,passe
+Atlético-MG,Allan,Volante,46564677,19,2,907,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46564668,15,2,904,1,passe
+Atlético-MG,Réver,Zagueiro,46564655,16,2,902,1,passe
+Atlético-MG,Guga,Lateral direito,46564640,17,2,899,1,passe
+Atlético-MG,Alan Franco,Meia,46564635,23,2,897,1,passe
+Atlético-MG,Jair,Volante,46564623,16,2,895,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46564617,15,2,893,1,passe
+Atlético-MG,Allan,Volante,46564602,14,2,890,1,passe
+Atlético-MG,Keno,Atacante,46564587,14,2,885,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46564537,22,2,869,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46564507,21,2,858,1,faltaCometida
+Atlético-MG,Allan,Volante,46564385,16,2,828,1,perdaPosseDeBola
+Atlético-MG,Guga,Lateral direito,46564362,11,2,821,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46564346,33,2,818,1,finalizacao
+Atlético-GO,Oliveira,Zagueiro,46564247,9,2,787,1,drible
+Atlético-MG,Allan,Volante,46564207,22,2,777,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46564204,28,2,776,1,passe
+Atlético-GO,Oliveira,Zagueiro,46564071,3,2,744,1,defesa
+Atlético-GO,Jean,Goleiro,46564053,4,2,740,1,defesaDificil
+Atlético-MG,Keno,Atacante,46564838,32,2,731,1,cruzamento
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46564006,20,2,728,1,passe
+Atlético-MG,Jair,Volante,46563991,15,2,725,1,passe
+Atlético-MG,Réver,Zagueiro,46563983,15,2,723,1,passe
+Atlético-MG,Guga,Lateral direito,46563979,17,2,722,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46563962,24,2,718,1,faltaCometida
+Atlético-MG,Réver,Zagueiro,46563898,10,2,700,1,passe
+Atlético-MG,Allan,Volante,46563867,7,2,689,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46563855,13,2,687,1,passe
+Atlético-MG,Everson,Goleiro,46563841,3,2,680,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46563812,25,2,668,1,passe
+Atlético-GO,Chico,Meia,46563798,31,2,664,1,passe
+Atlético-GO,Edson,Volante,46563748,9,2,633,1,lancamento
+Atlético-MG,Everson,Goleiro,46563734,4,2,625,1,defesaDificil
+Atlético-MG,Allan,Volante,46563718,28,2,618,1,faltaCometida
+Atlético-MG,Guga,Lateral direito,46563686,23,2,608,1,passe
+Atlético-MG,Jair,Volante,46563684,22,2,605,1,passe
+Atlético-MG,Allan,Volante,46563678,21,2,604,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46563676,20,2,602,1,passe
+Atlético-MG,Guga,Lateral direito,46563656,18,2,591,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46563638,13,2,583,1,rebatida
+Atlético-MG,Everson,Goleiro,46563595,6,2,568,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46563569,3,2,553,1,rebatida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563524,8,2,540,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46563513,14,2,538,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46563464,23,2,517,1,interceptacao
+Atlético-MG,Allan,Volante,46563460,14,2,515,1,passe
+Atlético-MG,Allan,Volante,46563450,7,2,509,1,passe
+Atlético-MG,Allan,Volante,46563362,21,2,466,1,passe
+Atlético-MG,Jair,Volante,46563355,22,2,464,1,passe
+Atlético-MG,Guga,Lateral direito,46563353,23,2,462,1,passe
+Atlético-GO,João Victor,Zagueiro,46563339,8,2,455,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46563293,19,2,439,1,passe
+Atlético-MG,Réver,Zagueiro,46563155,22,2,392,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46563151,21,2,390,1,passe
+Atlético-MG,Allan,Volante,46563144,20,2,388,1,passe
+Atlético-GO,Jean,Goleiro,46563104,8,2,370,1,rebatida
+Atlético-GO,João Victor,Zagueiro,46563076,23,2,356,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562930,3,2,314,1,defesa
+Atlético-MG,Allan,Volante,46562918,7,2,310,1,perdaPosseDeBola
+Atlético-MG,Eduardo Sasha,Atacante,46562890,3,2,302,1,faltaRecebida
+Atlético-GO,Gustavo Ferrareis,Meia,46562814,26,2,260,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46562725,13,2,229,1,passe
+Atlético-MG,Allan,Volante,46562720,19,2,228,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46562704,19,2,225,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562587,8,2,175,1,passe
+Atlético-MG,Everson,Goleiro,46562582,4,2,173,1,passe
+Atlético-MG,Réver,Zagueiro,46562580,12,2,172,1,passe
+Atlético-MG,Guga,Lateral direito,46562572,24,2,171,1,passe
+Atlético-MG,Savarino,Meia,46562570,30,2,170,1,passe
+Atlético-MG,Guga,Lateral direito,46562555,30,2,160,1,passe
+Atlético-GO,Dudu,Lateral direito,46562525,11,2,140,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562503,2,2,134,1,passe
+Atlético-MG,Réver,Zagueiro,46562501,11,2,132,1,passe
+Atlético-GO,Edson,Volante,46562399,1,2,92,1,faltaRecebida
+Atlético-GO,Nicolas,Lateral esquerdo,46562397,1,2,90,1,passe
+Atlético-MG,Alan Franco,Meia,46562393,36,2,86,1,passe
+Atlético-MG,Savarino,Meia,46562391,30,2,84,1,passe
+Atlético-MG,Alan Franco,Meia,46562387,23,2,82,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46562325,13,2,63,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46562250,23,2,40,1,faltaRecebida
+Atlético-MG,Allan,Volante,46562232,19,2,36,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46562204,13,2,28,1,passe
+Atlético-GO,João Victor,Zagueiro,46562175,12,2,20,1,passe
+Atlético-MG,Réver,Zagueiro,46562141,10,2,10,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46562137,8,2,8,1,passe
+Atlético-MG,Jair,Volante,46562125,16,2,6,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46562115,16,2,2,1,passe
+Atlético-MG,Nathan,Meia,46580380,15,4,3010,1,passe
+Atlético-GO,Gilvan,Zagueiro,46580369,33,4,2983,1,gol
+Atlético-GO,Everton Felipe,Meia,46580365,36,4,2981,1,cruzamento
+Atlético-GO,Matheuzinho,Meia,46580355,34,4,2941,1,finalizacao
+Atlético-MG,Everson,Goleiro,46580343,3,4,2932,1,defesaDificil
+Atlético-GO,João Victor,Zagueiro,46580332,23,4,2922,1,passe
+Atlético-MG,Réver,Zagueiro,46580324,7,4,2916,1,passe
+Atlético-MG,Everson,Goleiro,46580322,4,4,2913,1,passe
+Atlético-MG,Everson,Goleiro,46580318,11,4,2907,1,passe
+Atlético-MG,Jair,Volante,46580316,17,4,2905,1,passe
+Atlético-MG,Réver,Zagueiro,46580314,16,4,2904,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46580312,18,4,2903,1,passe
+Atlético-MG,Mariano,Lateral direito,46580310,24,4,2901,1,passe
+Atlético-MG,Réver,Zagueiro,46580308,24,4,2899,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46580303,7,4,2892,1,rebatida
+Atlético-GO,Edson,Volante,46580297,29,4,2866,1,faltaCometida
+Atlético-MG,Everson,Goleiro,46580292,2,4,2853,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46580290,7,4,2852,1,passe
+Atlético-MG,Réver,Zagueiro,46580282,14,4,2846,1,passe
+Atlético-MG,Jair,Volante,46580280,16,4,2843,1,passe
+Atlético-GO,Matheus Vargas,Meia,46580264,20,4,2826,1,faltaCometida
+Atlético-MG,Igor Rabello,Zagueiro,46580249,11,4,2807,1,passe
+Atlético-MG,Jair,Volante,46580245,10,4,2806,1,passe
+Atlético-MG,Jair,Volante,46580233,10,4,2796,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46580231,11,4,2795,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46580156,11,4,2758,1,passe
+Atlético-MG,Everson,Goleiro,46580148,4,4,2756,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46580102,2,4,2733,1,defesa
+Atlético-GO,Matheus Vargas,Meia,46580068,20,4,2715,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46580021,13,4,2696,1,passe
+Atlético-GO,Matheus Vargas,Meia,46580015,13,4,2695,1,passe
+Atlético-GO,Chico,Meia,46579983,17,4,2675,1,faltaCometida
+Atlético-GO,Matheuzinho,Meia,46579931,26,4,2643,1,perdaPosseDeBola
+Atlético-GO,Matheuzinho,Meia,46579808,25,4,2597,1,passe
+Atlético-GO,Matheus Vargas,Meia,46579792,19,4,2589,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579790,19,4,2587,1,passe
+Atlético-MG,Maílton,Lateral direito,46579784,18,4,2585,1,perdaPosseDeBola
+Atlético-MG,Mariano,Lateral direito,46579778,18,4,2583,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46579772,12,4,2580,1,passe
+Atlético-MG,Jair,Volante,46579766,16,4,2578,1,passe
+Atlético-MG,Réver,Zagueiro,46579762,9,4,2575,1,passe
+Atlético-MG,Everson,Goleiro,46579755,4,4,2573,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46579751,11,4,2571,1,passe
+Atlético-MG,Alan Franco,Meia,46579743,17,4,2569,1,passe
+Atlético-MG,Mariano,Lateral direito,46579735,18,4,2567,1,passe
+Atlético-MG,Maílton,Lateral direito,46579730,24,4,2565,1,passe
+Atlético-MG,Mariano,Lateral direito,46579721,18,4,2562,1,passe
+Atlético-MG,Alan Franco,Meia,46579719,17,4,2560,1,passe
+Atlético-MG,Mariano,Lateral direito,46579708,12,4,2556,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46579635,13,4,2519,1,passe
+Atlético-GO,Matheus Vargas,Meia,46579535,23,4,2474,1,passe
+Atlético-MG,Jair,Volante,46579536,14,4,2474,1,faltaCometida
+Atlético-GO,Matheus Vargas,Meia,46579523,23,4,2469,1,faltaRecebida
+Atlético-MG,Nathan,Meia,46579517,13,4,2467,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46579509,8,4,2463,1,passe
+Atlético-GO,Gilvan,Zagueiro,46579487,8,4,2449,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46579465,10,4,2437,1,passe
+Atlético-GO,Edson,Volante,46579329,10,4,2370,1,faltaRecebida
+Atlético-GO,Everton Felipe,Meia,46579320,12,4,2367,1,passe
+Atlético-GO,João Victor,Zagueiro,46579295,10,4,2360,1,interceptacao
+Atlético-MG,Sávio,Atacante,46579287,8,4,2354,1,passe
+Atlético-GO,Edson,Volante,46579251,15,4,2329,1,passe
+Atlético-GO,Matheus Vargas,Meia,46579245,22,4,2327,1,passe
+Atlético-GO,Everton Felipe,Meia,46579241,23,4,2325,1,passe
+Atlético-MG,Nathan,Meia,46579137,17,4,2289,1,passe
+Atlético-MG,Jair,Volante,46579133,11,4,2288,1,passe
+Atlético-MG,Nathan,Meia,46579129,16,4,2286,1,passe
+Atlético-GO,João Victor,Zagueiro,46579099,35,4,2274,1,passe
+Atlético-GO,Everton Felipe,Meia,46579095,29,4,2271,1,passe
+Atlético-MG,Everson,Goleiro,46579011,4,4,2244,1,lancamento
+Atlético-GO,Éder Ferreira,Zagueiro,46578860,16,4,2170,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46578837,19,4,2162,1,passe
+Atlético-GO,Edson,Volante,46578810,10,4,2147,1,passe
+Atlético-MG,Savarino,Meia,46578777,36,4,2129,1,cruzamento
+Atlético-GO,Jean,Goleiro,46578703,3,4,2091,1,defesa
+Atlético-GO,Renato Kayzer,Atacante,46578639,26,4,2066,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46578590,11,4,2042,1,passe
+Atlético-GO,Matheus Vargas,Meia,46578571,29,4,2031,1,passe
+Atlético-GO,Matheus Vargas,Meia,46578543,17,4,2018,1,passe
+Atlético-GO,Matheus Vargas,Meia,46578518,16,4,2011,1,passe
+Atlético-MG,Keno,Atacante,46578442,33,4,1932,1,gol
+Atlético-MG,Nathan,Meia,46578427,27,4,1928,1,passe
+Atlético-GO,Gilvan,Zagueiro,46578426,3,4,1928,1,rebatida
+Atlético-MG,Alan Franco,Meia,46578420,22,4,1926,1,passe
+Atlético-GO,Jean,Goleiro,46578409,4,4,1919,1,defesaDificil
+Atlético-GO,Nicolas,Lateral esquerdo,46578356,13,4,1877,1,rebatida
+Atlético-MG,Igor Rabello,Zagueiro,46578340,17,4,1867,1,passe
+Atlético-MG,Nathan,Meia,46578253,18,4,1802,1,perdaPosseDeBola
+Atlético-GO,Nicolas,Lateral esquerdo,46578228,25,4,1784,1,perdaPosseDeBola
+Atlético-GO,Chico,Meia,46578216,23,4,1777,1,passe
+Atlético-GO,João Victor,Zagueiro,46578199,18,4,1771,1,faltaRecebida
+Atlético-GO,Matheus Vargas,Meia,46578194,17,4,1768,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46578179,12,4,1759,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46578131,17,4,1737,1,passe
+Atlético-MG,Mariano,Lateral direito,46578127,18,4,1733,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46578122,23,4,1731,1,passe
+Atlético-MG,Keno,Atacante,46578119,23,4,1729,1,passe
+Atlético-GO,Edson,Volante,46578093,19,4,1710,1,interceptacao
+Atlético-MG,Igor Rabello,Zagueiro,46578085,12,4,1701,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46578083,13,4,1698,1,rebatida
+Atlético-MG,Igor Rabello,Zagueiro,46578033,17,4,1664,1,passe
+Atlético-MG,Mariano,Lateral direito,46578029,15,4,1662,1,passe
+Atlético-MG,Keno,Atacante,46577924,31,4,1594,1,faltaRecebida
+Atlético-MG,Junior Alonso,Lateral esquerdo,46577920,25,4,1592,1,passe
+Atlético-MG,Keno,Atacante,46577910,31,4,1588,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46577731,16,4,1505,1,passe
+Atlético-GO,Edson,Volante,46577725,14,4,1501,1,rebatida
+Atlético-GO,Edson,Volante,46577461,34,4,1398,1,faltaCometida
+Atlético-GO,Edson,Volante,46577425,34,4,1385,1,perdaPosseDeBola
+Atlético-GO,Matheuzinho,Meia,46577358,36,4,1366,1,cruzamento
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46577240,7,4,1320,1,faltaCometida
+Atlético-GO,Éder Ferreira,Zagueiro,46577180,11,4,1295,1,passe
+Atlético-GO,Gilvan,Zagueiro,46576972,9,4,1236,1,passe
+Atlético-GO,Oliveira,Zagueiro,46576962,17,4,1231,1,passe
+Atlético-GO,Janderson,Atacante,46576723,30,4,1139,1,passe
+Atlético-GO,Chico,Meia,46576706,30,4,1129,1,passe
+Atlético-GO,Janderson,Atacante,46576692,30,4,1124,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46576609,5,4,1100,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46576584,25,4,1080,1,passe
+Atlético-GO,Edson,Volante,46576464,4,4,1021,1,rebatida
+Atlético-GO,Janderson,Atacante,46576445,21,4,1015,1,perdaPosseDeBola
+Atlético-MG,Alan Franco,Meia,46576415,17,4,1005,1,perdaPosseDeBola
+Atlético-GO,Nicolas,Lateral esquerdo,46576409,13,4,1004,1,rebatida
+Atlético-MG,Everson,Goleiro,46576375,4,4,995,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46576362,6,4,990,1,rebatida
+Atlético-GO,Edson,Volante,46576331,21,4,978,1,faltaRecebida
+Atlético-GO,Jean,Goleiro,46576273,3,4,952,1,lancamento
+Atlético-GO,Éder Ferreira,Zagueiro,46576205,11,4,932,1,passe
+Atlético-GO,Chico,Meia,46576186,15,4,928,1,passe
+Atlético-MG,Nathan,Meia,46576035,33,4,876,1,gol
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46575978,20,4,861,1,passe
+Atlético-GO,Éder Ferreira,Zagueiro,46575707,3,4,743,1,rebatida
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46575686,25,4,735,1,passe
+Atlético-GO,Renato Kayzer,Atacante,46575626,14,4,711,1,passe
+Atlético-MG,Réver,Zagueiro,46575539,21,4,688,1,passe
+Atlético-MG,Jair,Volante,46575535,27,4,687,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46575442,18,4,661,1,passe
+Atlético-MG,Jair,Volante,46575432,23,4,660,1,passe
+Atlético-MG,Savarino,Meia,46575426,24,4,658,1,passe
+Atlético-MG,Alan Franco,Meia,46575418,17,4,655,1,passe
+Atlético-MG,Jair,Volante,46575412,16,4,653,1,passe
+Atlético-MG,Eduardo Sasha,Atacante,46575408,15,4,652,1,passe
+Atlético-GO,Janderson,Atacante,46575289,27,4,597,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46575285,33,4,595,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46575240,25,4,585,1,perdaPosseDeBola
+Atlético-GO,Edson,Volante,46575226,19,4,580,1,interceptacao
+Atlético-MG,Réver,Zagueiro,46575192,5,4,569,1,passe
+Atlético-MG,Everson,Goleiro,46575188,4,4,567,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46575148,8,4,550,1,perdaPosseDeBola
+Atlético-GO,Chico,Meia,46575086,14,4,531,1,perdaPosseDeBola
+Atlético-MG,Réver,Zagueiro,46575082,17,4,530,1,passe
+Atlético-GO,Edson,Volante,46575076,8,4,529,1,passe
+Atlético-MG,Keno,Atacante,46574901,34,4,456,1,gol
+Atlético-MG,Eduardo Sasha,Atacante,46574649,27,4,361,1,passe
+Atlético-MG,Nathan,Meia,46574642,26,4,360,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46574620,18,4,351,1,passe
+Atlético-MG,Jair,Volante,46574618,23,4,350,1,passe
+Atlético-MG,Alan Franco,Meia,46574601,24,4,343,1,passe
+Atlético-GO,Dudu,Lateral direito,46574585,17,4,335,1,passe
+Atlético-MG,Jair,Volante,46574552,6,4,320,1,passe
+Atlético-MG,Jair,Volante,46574400,16,4,241,1,passe
+Atlético-MG,Nathan,Meia,46574317,26,4,201,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46574313,20,4,199,1,passe
+Atlético-MG,Jair,Volante,46574282,22,4,190,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46574256,14,4,180,1,passe
+Atlético-MG,Jair,Volante,46574204,17,4,164,1,passe
+Atlético-MG,Réver,Zagueiro,46574199,24,4,162,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46574188,30,4,154,1,passe
+Atlético-MG,Nathan,Meia,46574174,34,4,148,1,passe
+Atlético-GO,Nicolas,Lateral esquerdo,46574173,3,4,148,1,rebatida
+Atlético-MG,Eduardo Sasha,Atacante,46574150,32,4,138,1,passe
+Atlético-MG,Junior Alonso,Lateral esquerdo,46574144,20,4,136,1,passe
+Atlético-MG,Réver,Zagueiro,46574138,22,4,133,1,passe
+Atlético-GO,João Victor,Zagueiro,46574134,4,4,132,1,rebatida
+Atlético-MG,Nathan,Meia,46574115,28,4,126,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46574112,27,4,125,1,passe
+Atlético-GO,Edson,Volante,46574097,9,4,122,1,rebatida
+Atlético-MG,Igor Rabello,Zagueiro,46574069,18,4,114,1,passe
+Atlético-MG,Igor Rabello,Zagueiro,46574049,18,4,107,1,passe
+Atlético-MG,Réver,Zagueiro,46574045,16,4,105,1,passe
+Atlético-MG,Guilherme Arana,Lateral esquerdo,46574041,14,4,102,1,passe
+Atlético-MG,Nathan,Meia,46574037,14,4,99,1,passe
+Atlético-GO,Gustavo Ferrareis,Meia,46574027,20,4,96,1,passe
+Atlético-GO,Jean,Goleiro,46573989,3,4,76,1,defesa
+Atlético-MG,Junior Alonso,Lateral esquerdo,46573953,20,4,67,1,passe
+Atlético-GO,Chico,Meia,46573828,23,4,23,1,faltaRecebida
+Atlético-GO,Oliveira,Zagueiro,46573822,17,4,21,1,passe
